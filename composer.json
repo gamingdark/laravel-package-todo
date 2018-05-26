@@ -10,11 +10,11 @@
             "email": "excgames@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
         "psr-4": {
-            "\\Exc\\Todo\\": "src/"
+            "Exc\\Todo\\": "src/"
         }
     },
-    "require": {}
+    "minimum-stability": "dev"
 }
